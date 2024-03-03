@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheGladietor
-- 👀 I’m interested in cars,computers,gaming,web development,Arduino, Raspberry PI and app development!!!
+- 👀 I’m interested in cars,computers, gaming,web development, Arduino, Raspberry PI and app development!!!
 - 🌱 I’m currently learning Javascript right now!!!
 - 💞️ I’m looking to collaborate on Arduino and JS projects to be better!
 - 📫 How to reach me ... You can't because as a developer I'm a not so social 😅
