@@ -1,3 +1,5 @@
+![Header](./github-header-banner.png)
+
 - 👋 Hi, I’m @TheGladietor
 - 👀 I’m interested in cars,computers, gaming,web development, Arduino, Raspberry PI and app development!!!
 - 🌱 I’m currently learning Javascript right now!!!
